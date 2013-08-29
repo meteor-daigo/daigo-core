@@ -11,7 +11,6 @@ Package.on_use(function (api) {
 
 	api.add_files('logs.js', both);
 	api.add_files('daigo.js', both);
-	api.add_files('client.js', 'client');
 
 	if (typeof api.export !== 'undefined') {
 		api.export(['Daigo', 'DaigoLogs'], both);
