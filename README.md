@@ -1,7 +1,7 @@
-daigo-base
+daigo-core
 ==========
 
-Gamification package for Meteor. This specifically is the base package, needed for all Daigo packages
+Gamification package for Meteor. This specifically is the core package, needed for all Daigo packages
 
 ### Packages
 
