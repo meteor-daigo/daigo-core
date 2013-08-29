@@ -1,0 +1,1 @@
+var DaigoLogs = new Meteor.Collection('daigoLogs');
