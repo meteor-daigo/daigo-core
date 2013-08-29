@@ -1,6 +1,6 @@
 Daigo = {};
 
-Daigo.prototype.Core = {
+Daigo.Core = {
 	log: function (userId, packageType, packageId, createdAt) {
 		// Log a user gamification update/action/whatever
 		DaigoLogs.insert({
