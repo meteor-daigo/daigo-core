@@ -5,5 +5,7 @@
 	"author": "The Daigo Team",
 	"version": "0.1.0",
 	"git": "https://github.com/meteor-daigo/daigo-core.git",
-	"packages": {}
+	"packages": {
+		"smart-collections": {}
+	}
 }

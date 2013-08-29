@@ -1,7 +1,7 @@
 Daigo = {};
 
 Daigo.Core = {
-	log: function (userId, packageType, packageId, createdAt) {
+	log: function (userId, packageType, packageId) {
 		// Log a user gamification update/action/whatever
 		DaigoLogs.insert({
 			userId: userId,

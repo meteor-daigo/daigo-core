@@ -1,1 +1,1 @@
-var DaigoLogs = new Meteor.Collection('daigoLogs');
+var DaigoLogs = new Meteor.SmartCollection('daigoLogs');
