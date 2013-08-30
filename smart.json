@@ -1,5 +1,5 @@
 {
-	"name": "daigo-base",
+	"name": "daigo-core",
 	"description": "The core package for Daigo. Required for other Daigo packages to work",
 	"homepage": "https://github.com/meteor-daigo/daigo-core",
 	"author": "The Daigo Team",
